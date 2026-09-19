@@ -1,4 +1,4 @@
-![Heder](./assets/got.jpg)
+![Heder](./assets/image_c.jpg)
 <!-- Это комментарий <img src="./assets/Fon_base.jpeg" width="100%" /> -->
 
 About me

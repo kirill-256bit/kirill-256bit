@@ -1,5 +1,5 @@
 ## Hi there, I'm Kirill
-![Header](./assets/image_c.jpg)
+![Header](./assets/cat.gif)
 <!-- Это комментарий <img src="./assets/Fon_base.jpeg" width="100%" /> -->
 
 ## I'm beginner Software Engeneer 

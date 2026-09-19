@@ -1,4 +1,5 @@
- <img src="./assets/image_c.jpg" width="100%" /> 
+![Header](./assets/image_c.jpg)
+<!-- Это комментарий <img src="./assets/Fon_base.jpeg" width="100%" /> -->
 
 About me
 

@@ -7,7 +7,8 @@ About me
 
 Languges 
 
-![Flutter]( https://img.shields.io/badge/-passing-24425d?style=for-the-badge&logo=python)
+![Flutter]( https://img.shields.io/badge/-passing-1d1e34?style=for-the-badge&logo=python)
+![Flutter]( https://img.shields.io/badge/-passing-040319?style=for-the-badge&logo=python)
 
 
 Tools

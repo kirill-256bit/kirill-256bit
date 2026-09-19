@@ -1,7 +1,7 @@
 ## Hi there, I'm Kirill
 <!--![Header](./assets/cat.gif)
  Это комментарий <img src="./assets/Fon_base.jpeg" width="100%" /> -->
-<img src="./assets/The_man.gif" alt="Header" width="100%" />
+<img src="./assets/The_man.gif" alt="Header" width="100%" autoplay loop />
 ## I'm beginner Software Engeneer 
 About me
 

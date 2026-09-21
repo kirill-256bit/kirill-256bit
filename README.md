@@ -56,6 +56,6 @@ Hello everyone My name is Kirill, and I’m an aspiring developer. I’m studyin
 
 ## Follow Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-364362?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Telegram](https://img.shields.io/badge/Telegram-364362?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-364362?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-364362?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kirill-256bit)
+[![Telegram](https://img.shields.io/badge/Telegram-364362?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andronov_ki)
+[![VK](https://img.shields.io/badge/VK-364362?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/have_ki)

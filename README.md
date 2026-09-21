@@ -1,7 +1,7 @@
 ## Hi there, I'm Kirill
 <!--![Header](./assets/cat.gif)
  Это комментарий <img src="./assets/Fon_base.jpeg" width="100%" /> -->
-<img src="https://i.gifer.com/3P2to.gif" alt="Header" width="100%" />
+<img src="https://images.steamusercontent.com/ugc/958603887331757558/D1E9FAB08630AFD6CB06EE7B719338B00BCEACBC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Header" width="100%" />
 
 ## I'm a beginner Software Engineer 
 ### About me
